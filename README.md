@@ -147,8 +147,8 @@ plt.show()
 
 I’d love to hear your feedback or connect with you!
 
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/machariajosepht/)  
-- **GitHub:** [@yourusername](https://github.com/JinxWycman)  
+- **LinkedIn:** (https://www.linkedin.com/in/machariajosepht/)  
+- **GitHub:** (https://github.com/JinxWycman)  
 - **Email:** machariajoseph1422@gmail.com
 
 
