@@ -23,7 +23,7 @@ I worked with real‑world datasets to practice the fundamental steps of any mac
 | **Task 1** | `churn bigml.80.csv` | Customer churn data (80% sample). Contains customer demographics, account information, and whether they churned. |
 | **Task 2** | `house_prices.csv` | House sales data with features like area, number of bedrooms, location, etc., and the sale price. |
 
-Both files are included in this repository (or you can download them from [Kaggle / source link]).  
+Both files you can download them from Kaggle.  
 *Note: For Task 1, I used the 80% file as the raw dataset and split it further into training and test sets – exactly as the task required.*
 
 ---
