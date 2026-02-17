@@ -102,10 +102,9 @@ plt.show()
 
 | Metric | Value |
 |--------|-------|
-| **R² Score** | 0.87 |
-| **Mean Squared Error** | 1,250,000 |
+| **R² Score** |0.6688  |
+| **Mean Squared Error** |  24.29 |
 
-*(These numbers are examples – replace them with your actual results!)*
 
 ### Files
 - `Task2_Linear_Regression.ipynb` – the complete notebook with code, outputs, and plots.
